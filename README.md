@@ -1,16 +1,12 @@
-### Hi there 👋
+# Overview
+<p align="left"> 
+<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LifeViolation&theme=tokyonight&layout=compact" />
+<img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=LifeViolation&theme=tokyonight&show_icons=true" />
+</p>
 
-<!--
-**LifeViolation/LifeViolation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hostings
+## Netflix-Clone
+https://react-netflix-clone-4ede6.web.app
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Weather-Report
+https://weather-report-1aa9b.web.app/
