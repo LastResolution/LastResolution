@@ -5,6 +5,11 @@
     src="https://capsule-render.vercel.app/api?type=rect&text=Sora.N&fontAlign=50&fontAlignY=50&height=150&color=0d1117&fontColor=ffffff"
     alt="header"
   />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LastResolution/LastResolution/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LastResolution/LastResolution/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LastResolution/LastResolution/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- ===== Summary Cards ===== -->
